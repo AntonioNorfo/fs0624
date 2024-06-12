@@ -1,0 +1,37 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  display: inline-block;
+}
+
+.logo {
+  text-align: center;
+  width: 150px;
+  margin-bottom: 10px;
+}
+span {
+  font-weight: 900;
+}
+div h1 {
+  color: #004d4c;
+  font-size: small;
+}
+.giallo {
+  background-color: #fdfbf1;
+  padding: 0.3%;
+}
+.colore {
+  color: #333333;
+}
+.colore1 {
+  color: #999999;
+}
+.colore3 {
+  color: #b5460f;
+}
+.paragrafo2 {
+  text-indent: -152px;
+}
+.focaccia {
+  border-radius: 3%;
+}
