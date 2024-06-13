@@ -79,6 +79,9 @@ table {
   border-width: 1px;
   border-bottom-color: #4b79cf;
   text-align: center;
+  border-top: none;
+  border-left: none;
+  border-right: none;
 }
 iframe {
   border-radius: 10%;
@@ -113,4 +116,10 @@ p a {
 }
 .viola {
   color: #ff00fe;
+}
+input {
+  border-style: dashed;
+  border-top: none;
+  border-left: none;
+  border-right: none;
 }
