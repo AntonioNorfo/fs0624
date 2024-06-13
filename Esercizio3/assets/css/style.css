@@ -3,7 +3,17 @@ body {
   text-align: center;
   display: inline-block;
 }
+.centrale {
+  width: 50%;
+  margin: 0 auto;
+  padding: 10px;
+}
+.centrale video {
+  width: 100%;
+  border-radius: 10px;
 
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
 .logo {
   text-align: center;
   width: 150px;
@@ -19,6 +29,7 @@ div h1 {
 .giallo {
   background-color: #fdfbf1;
   padding: 0.3%;
+  border-top: 2px #ffd977;
 }
 .colore {
   color: #333333;
@@ -29,9 +40,10 @@ div h1 {
 .colore3 {
   color: #b5460f;
 }
-.paragrafo2 {
-  text-indent: -152px;
-}
 .focaccia {
   border-radius: 3%;
+}
+.bordoSinitra {
+  border-left-color: #ffd977;
+  border: 2px;
 }
