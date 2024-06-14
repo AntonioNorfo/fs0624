@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+#sfondo {
+  background-color: black;
+  padding: 30px;
+}
+#logo {
+  width: 150px;
+}
+.sfondo2 p {
+  color: #393b42;
+}
+h1 {
+  font-family: "Montserrat", sans-serif;
+  color: #24a7cc;
+}
+button {
+  background-color: #fe4523;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.sfondo1 {
+  background-image: url(../img/banner.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.padding {
+  padding: 25px 10px 60px 15px;
+  color: #393b42;
+}
+.sfondo2 {
+  background-color: white;
+  padding: 30px;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #24a7cc;
+}
+.pc {
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+}
+.arancione {
+  background-color: #e72a15;
+  color: white;
+}
+.corsivo {
+  font-style: italic;
+  padding-bottom: 5px;
+}
+.centro {
+  padding: 40px 20px;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  line-height: 1;
+}
+span {
+  font-size: 0.6rem;
+}
+img {
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+.centro1 {
+  padding: 30px 0px;
+  color: #393b42;
+}
+figure {
+  border: 1px solid;
+  border-color: #e0e0e2;
+  margin: 35px;
+}
+footer {
+  background-color: #23a9cc;
+  color: #c2edf4;
+  padding: 30px;
+}
+.contattaci {
+  font-family: "Montserrat", sans-serif;
+  color: #c2edf4;
+}
+footer a {
+  color: #c2edf4;
+}
+hr {
+  width: 50%;
+}
