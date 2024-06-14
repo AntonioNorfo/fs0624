@@ -89,7 +89,7 @@ footer {
   color: #c2edf4;
   padding: 30px;
 }
-.contattaci {
+#contattaci {
   font-family: "Montserrat", sans-serif;
   color: #c2edf4;
 }
@@ -98,4 +98,7 @@ footer a {
 }
 hr {
   width: 50%;
+}
+.senzalinea {
+  text-decoration: none;
 }
